@@ -30,11 +30,11 @@ The Flow of the projects is as follows:
 ![Wearing Mask](https://user-images.githubusercontent.com/74170328/112876375-12a96780-90e3-11eb-95ae-3cc82f910942.png)
 
 # Group Members
-1. Staveta Parashar
-2. Uday Som
-3. Tushar Malhotra
-4. Prince Jain
-5. Siddharth Mehta
-6. Samyak Jain
+1. Staveta 
+2. Uday 
+3. Tushar 
+4. Prince 
+5. Siddharth 
+6. Samyak 
 
 **Hope u Enjoyed it!**
